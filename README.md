@@ -5,8 +5,7 @@
 Create one readme file for each data file, whenever possible.
 It is also appropriate to describe a “dataset” that has multiple, related, identically formatted files, or files that are logically grouped together for use (e.g. a collection of Matlab scripts). When appropriate, also describe the file structure that holds the related data files. See Example 2 for describing grouped or multiple files.
  
-Name the readme so that it is easily associated with the data file(s) it describes.
- 
+Name the readme so that it is easily associated with the data file(s) it describes
 Write your readme document as a plain text file
 To avoid proprietary formats such as MS Word whenever possible. Format the readme document so it is easy to understand (e.g. separate important pieces of information with blank lines, rather than having all the information in one long paragraph).
  
