@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Globaltronics Website by Jimmel Bermudez
  Website I Create
 ## DevJim
@@ -17,3 +18,7 @@ Suggested format: W3C/ISO 8601 date standard, which specifies the international 
  
 Follow the domain conventions of your discipline for taxonomic, geospatial and geologic names and keywords.
 Whenever possible, use terms from standardized taxonomies and vocabularies, a few of which are listed below.
+=======
+# Globalltronics_DevJim
+DevJim Created
+>>>>>>> 27cfd4720a694b85fc8a6de6a6d581d584f29a40
