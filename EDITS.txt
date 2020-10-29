@@ -1,0 +1,33 @@
+Header
+
+footer
+ 
+9 IMAGES PRODUCT With details
+LED
+- https://www.globaltronics.net/wp-content/uploads/2020/03/kingflex.png
+	- FLEX SERIES
+- https://www.globaltronics.net/wp-content/uploads/2020/03/mr.png
+	- FINE PITCH LED
+- https://www.globaltronics.net/wp-content/uploads/2020/03/RC.png
+	- RC SERIES
+PHILIPS
+- https://www.globaltronics.net/wp-content/uploads/2020/07/10.jpg
+	- D SERIES
+- https://www.globaltronics.net/wp-content/uploads/2020/07/4-3.jpg
+	- U-L SERIES
+- https://www.globaltronics.net/wp-content/uploads/2020/07/4-4.jpg
+	- MULTI TOUCH SERIES
+KIOSK
+- https://www.globaltronics.net/wp-content/uploads/2020/05/mirrorfinal.jpg
+	- MIRROR KIOSK
+- https://www.globaltronics.net/wp-content/uploads/2020/05/whiteboardd-black-logo.png
+	- DIGITAL WHITE BOARD
+- https://www.globaltronics.net/wp-content/uploads/2020/05/kiosk-1.jpg
+	- DIGITAL KIOSK
+
+link video : https://www.youtube.com/watch?v=lXV0ssiiDfU
+
+change preloader: 
+
+EMAIL RECEIVE:
+
